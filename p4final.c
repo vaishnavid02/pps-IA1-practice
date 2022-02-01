@@ -44,4 +44,3 @@ int main()
   out_put(n,a,sum);
   return 0;
 }
-l
