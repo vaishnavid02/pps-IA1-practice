@@ -34,4 +34,4 @@ int main()
   sqrt_result=my_sqrt(n);
   output(n,sqrt_result);
   return 0;
-}
+} l
