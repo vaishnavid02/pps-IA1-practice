@@ -34,4 +34,3 @@ int main()
   output(sum);
   return 0;
 }
-l
